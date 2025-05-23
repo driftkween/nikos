@@ -1,0 +1,16 @@
+{
+  "name": "nikos",
+  "version": "1.0.0",
+  "description": "Shopify 2.0 theme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-driftkween:driftkween/nikos.git"
+  },
+  "license": "ISC",
+  "author": "Christina Kim",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
